@@ -2,4 +2,4 @@
 # Extarnal json files are in src file
 # test scripts are in spec file
 # Testing framework: Mocha JS
-# Testing properties: Name, Adress
+# Testing properties: Name, Address
